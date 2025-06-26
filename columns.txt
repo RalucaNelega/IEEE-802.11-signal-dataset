@@ -1,3 +1,8 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:170e2b6b866339dfd3f134792263e65e4f339e74a67727768a33475d47d0ece7
-size 80
+IQSamples
+DelayProfile
+MCS
+SNR
+Modulation
+Speed
+IEEE Standard
+IEEE Transmission
