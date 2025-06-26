@@ -1,10 +1,3 @@
-import numpy as np
-import pandas as pd
-
-dataset = np.load('dataset.npy', allow_pickle=True)
-
-with open('columns.txt', 'r') as f:
-    column_names = [line.strip() for line in f]
-
-df = pd.DataFrame(dataset, columns=column_names)
-print(df.head())
+version https://git-lfs.github.com/spec/v1
+oid sha256:4d96f9a8c0672559ab38af3f1c175d2243036cc0d6ba495e417d012b982f9d97
+size 244
